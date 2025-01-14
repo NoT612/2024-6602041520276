@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/teachers
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzM2ODQwODkzLCJleHAiOjE3Mzk0MzI4OTN9.7J6Q7mOjeiBi1Og-DIu_g4qcWX-d48mfqb0lsM7VtLo
+
+{ 
+    "data": 
+    { 
+        "name": "Sumat Sukrungrong"
+    } 
+
+}

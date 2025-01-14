@@ -2,6 +2,6 @@ POST http://localhost:8080/api/auth/local
 Content-Type: application/json
 
 {
-   "identifier": "sumat1",
-   "password": "123456"
+   "identifier": "sumat",
+   "password": "Notty1910"
 }

@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/teachers/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzM2ODQyOTA2LCJleHAiOjE3Mzk0MzQ5MDZ9.5S3L3TxXc5uhRiiarH6WRojJzfyNr4h9zuYi2VCZhog
